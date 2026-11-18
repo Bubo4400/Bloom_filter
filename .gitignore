@@ -1,3 +1,7 @@
 /bloom_filter
 *.o
 *.swp
+__pycache__/
+*.pyc
+.~lock.*#
+*.xlsx
